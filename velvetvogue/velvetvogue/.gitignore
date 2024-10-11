@@ -1,0 +1,38 @@
+# Python
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyd
+
+# Django
+*.log
+*.sqlite3
+db.sqlite3
+/media
+/staticfiles/
+*.pot
+*.pyc
+
+# Ignore Django migration files
+*/migrations/*.py
+*/migrations/*.pyc
+
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.DS_Store
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Ignore any files that should not be version controlled
+*.local
