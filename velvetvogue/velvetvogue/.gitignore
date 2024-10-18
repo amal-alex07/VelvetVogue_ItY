@@ -36,3 +36,9 @@ build/
 
 # Ignore any files that should not be version controlled
 *.local
+
+#  Image File
+media/images/
+*product_images/
+product_images/
+*/product_images/*
