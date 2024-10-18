@@ -38,7 +38,4 @@ build/
 *.local
 
 #  Image File
-media/images/
-*product_images/
-product_images/
-*/product_images/*
+velvetvogue/product_images/
